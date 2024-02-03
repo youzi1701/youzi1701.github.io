@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>“Test”</title>
+      <title>test</title>
       <link href="/2024/02/03/test/"/>
       <url>/2024/02/03/test/</url>
       
-        <content type="html"><![CDATA[<p> 月落乌啼霜满天</p><p>江枫渔火对愁眠</p><p>2024年2月3日15:59:41</p>]]></content>
+        <content type="html"><![CDATA[<p>##用 Hexo 命令创建新文章：** 在命令行中使用 <code>hexo new "My New Post"</code> 命令创建新文章。这将在 <code>source/_posts</code> 目录中创建一个新的 Markdown 文件，您可以在其中撰写文章内容。</p><ol><li><strong>编辑文章内容：</strong> 打开新创建的 Markdown 文件，使用 Markdown 格式编写文章内容。您可以添加标题、段落、链接、图片等。</li><li><strong>添加元数据：</strong> 在文章的开头，您可以添加元数据，如文章标题、日期、标签、分类等信息，这些信息将被 Hexo 用于生成网页和归档页面。</li><li><strong>预览文章：</strong> 在编辑完成后，您可以使用 <code>hexo server</code> 命令启动本地服务器，然后在浏览器中预览您的博客，确保新文章的样式和布局符合您的期望。</li><li><strong>发布文章：</strong> 当您满意文章的内容和样式后，可以使用 <code>hexo generate</code> 命令生成静态文件，然后使用 <code>hexo deploy</code> 命令将生成的静态文件部署到您的托管服务（如 GitHub Pages）上。</li></ol>]]></content>
       
       
       

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-03T07:59:53.729Z</updated>
+  <updated>2024-02-03T08:04:44.638Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>“Test”</title>
+    <title>test</title>
     <link href="http://example.com/2024/02/03/test/"/>
     <id>http://example.com/2024/02/03/test/</id>
-    <published>2024-02-03T07:58:46.000Z</published>
-    <updated>2024-02-03T07:59:53.729Z</updated>
+    <published>2024-02-03T08:03:16.078Z</published>
+    <updated>2024-02-03T08:04:44.638Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;</summary>
+    <summary type="html">&lt;p&gt;##用 Hexo 命令创建新文章：** 在命令行中使用 &lt;code&gt;hexo new &quot;My New Post&quot;&lt;/code&gt; 命令创建新文章。这将在 &lt;code&gt;source/_posts&lt;/code&gt; 目录中创建一个新的 Markdown</summary>
         
       
     
